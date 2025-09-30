@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55783393817",
+    "project_id": "mtech-works-dd83c",
+    "storage_bucket": "mtech-works-dd83c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55783393817:android:77a17a8fbd878f1e57b888",
+        "android_client_info": {
+          "package_name": "com.martoo_tech_app.mtech_works"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrjQ-my4oMr6lPzEILqls4TdGYRB3Fcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55783393817:android:d3a6aeb3f12599e957b888",
+        "android_client_info": {
+          "package_name": "com.martootechworks.zedtutors_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrjQ-my4oMr6lPzEILqls4TdGYRB3Fcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
